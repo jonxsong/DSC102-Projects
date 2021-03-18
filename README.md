@@ -1,2 +1,2 @@
 # DSC102-Projects
-PAs
+This repo contains all relevant PA work done in DSC102 WI21
